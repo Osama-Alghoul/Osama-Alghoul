@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Osama</h1>
 <h3 align="center">A passionate frontend developer from Palestine</h3>
 
-<h3 align="left">Support me by joining my discord server:</h3>
+<h3 align="left">Feel free to see and review my repos below</h3>
+<h3 align="left">My DMs are open, Contact me by joining my discord server:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/vaGaSmntjY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/vaGaSmntjY" height="30" width="40" /></a>
 </p>

@@ -56,5 +56,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osama-alghoul&label=Profile%20views&color=0e75b6&style=flat" alt="osama-alghoul" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osama-alghoul" alt="osama-alghoul" /></a> </p>
-
-<img src="https://raw.githubusercontent.com/Osama-Alghoul/Osama-Alghoul/output/snake.svg" alt="Snake animation" />

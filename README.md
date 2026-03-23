@@ -9,6 +9,9 @@ Experinced since 2020
 * 🌍  I'm based in Palestine
 * ✉️  You can contact me at [osamalghoul2@gmail.com](mailto:osamalghoul2@gmail.com)
 
+> [!NOTE]
+> **Active Developer Status:** While my public contribution graph may appear quiet, I am actively shipping code daily through private enterprise repositories and collaborative work accounts (`dev1-collab`). I am currently **open to new job opportunities** and ready to contribute to a new team.
+
 <a href="https://www.github.com/Osama-Alghoul" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Osama-Alghoul?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 

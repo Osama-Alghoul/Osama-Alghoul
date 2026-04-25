@@ -1,40 +1,74 @@
-Hi 👋 My name is Osama Alghoul
-==============================
-
-Web Developer
--------------
-
-Experinced since 2020
-
-* 🌍  I'm based in Palestine
-* ✉️  You can contact me at [osamalghoul2@gmail.com](mailto:osamalghoul2@gmail.com)
+<div align="center">
+  <div align="left">
+    <h1>Hi, I'm Osama Alghoul 👋</h1>
+    <h3>Full-Stack Web Developer</h3>
+    <p><b>Experienced software engineer based in Palestine, shipping code daily since 2020.</b></p>
+    <p>
+      <a href="https://github.com/Osama-Alghoul" target="_blank">
+        <img src="https://img.shields.io/github/followers/Osama-Alghoul?logo=github&style=flat-square&color=0891b2&labelColor=1c1917" alt="Followers" />
+      </a>
+      &nbsp;
+      <a href="mailto:osamalghoul2@gmail.com">
+        <img src="https://img.shields.io/badge/Contact-Email-0891b2?style=flat-square&logo=gmail&logoColor=white&labelColor=1c1917" alt="Email" />
+      </a>
+    </p>
+  </div>
+</div>
 
 > [!NOTE]
 > **Active Developer Status:** While my public contribution graph may appear quiet, I am actively shipping code daily through private enterprise repositories and collaborative work accounts (`dev1-collab`). I am currently **open to new job opportunities** and have the time and the experience to contribute with other teams.
 
-<a href="https://www.github.com/Osama-Alghoul" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Osama-Alghoul?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=Osama-Alghoul&show_icons=true&theme=tokyonight&hide_border=true&title_color=0891b2&icon_color=0891b2&bg_color=1c1917" align="right" width="350" />
 
-### Skills
+<br clear="both" />
 
+---
+
+### 🚀 Professional Overview
+
+I specialize in building scalable web applications and automated workflows. While my public contribution graph may appear quiet, I am **actively shipping enterprise-level code daily** through private repositories and professional collaboration accounts.
+
+* **Experience:** 4+ Years (Since 2020)
+* **Current Status:** 🟢 Open to new job opportunities and technical collaborations.
+* **Philosophy:** Writing clean, maintainable code that solves real-world business problems.
+
+---
+
+### 🛠️ Core Tech Stack
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></a>
 </p>
 
+---
 
-### Socials
+### 📊 Performance & Languages
 
-<p align="left"> <a href="https://discord.com/users/osssghoul" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Osama-Alghoul" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://osama-alghoul.vercel.app/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Osama-Alghoul"><img src="https://github-readme-stats.vercel.app/api?username=Osama-Alghoul&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Osama-Alghoul's GitHub stats" /></a>
-
-<a href="https://github.com/Osama-Alghoul" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-Alghoul&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-Alghoul&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact" alt="Top Languages" height="165" />
+</p>
 
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="GitHub Snake Animation" width="80%" />
 </div>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://discord.com/users/osssghoul" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://osama-alghoul.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0891b2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.github.com/Osama-Alghoul" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>

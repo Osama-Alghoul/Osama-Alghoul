@@ -18,8 +18,6 @@
 > [!NOTE]
 > **Active Developer Status:** While my public contribution graph may appear quiet, I am actively shipping code daily through private enterprise repositories and collaborative work accounts (`dev1-collab`). I am currently **open to new job opportunities** and have the time and the experience to contribute with other teams.
 
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Osama-Alghoul&show_icons=true&theme=tokyonight&hide_border=true&title_color=0891b2&icon_color=0891b2&bg_color=1c1917" align="right" width="350" />
-
 <br clear="both" />
 
 ---
@@ -44,18 +42,6 @@ I specialize in building scalable web applications and automated workflows. Whil
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></a>
 </p>
-
----
-
-### 📊 Performance & Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-Alghoul&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact" alt="Top Languages" height="165" />
-</p>
-
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="GitHub Snake Animation" width="80%" />
-</div>
 
 ---
 

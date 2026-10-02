@@ -51,7 +51,7 @@ I specialize in building scalable web applications and automated workflows. Whil
   <a href="https://discord.com/users/osssghoul" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://osama-alghoul.vercel.app/" target="_blank">
+  <a href="https://osssghoul.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0891b2?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.github.com/Osama-Alghoul" target="_blank">

@@ -34,6 +34,9 @@ const osama = {
     "Next.js",
     "Node.js",
     "Express",
+    "NestJS",
+    "PostgreSQL",
+    "SQLite",
     "Docker",
     "Cloudflare",
   ],
@@ -41,6 +44,13 @@ const osama = {
   philosophy: "Clean, maintainable code that solves real business problems",
 };
 ```
+
+#### ⚡ Right Now
+
+- 🔭 Building full-stack apps with **NestJS + PostgreSQL** behind **Next.js** frontends
+- 🌱 Learning **Go** and leveling up backend architecture
+- 💬 Ask me about **React, Next.js, Node.js APIs, Stripe payments**
+- 📫 Reach me at **osamalghoul2@gmail.com**
 
 ---
 
@@ -67,6 +77,14 @@ const osama = {
     <td>
       <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
       <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
+      <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+      <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></a>
     </td>
   </tr>
   <tr>
@@ -81,34 +99,17 @@ const osama = {
 
 ---
 
-### 🎮 Play Tic-Tac-Toe With Me
+### 💼 Looking for a Developer?
 
-Anyone can play! Click an empty square ⬜. It opens a pre-filled issue, you hit **Submit**, and a GitHub Action plays your move and updates this board within about a minute.
-
-<!-- TTT:START -->
 <div align="center">
 
-<table>
-  <tr><td align="center" width="64" height="64"><h2><a href="https://github.com/Osama-Alghoul/Osama-Alghoul/issues/new?title=ttt%7Cmove%7C0&body=Just%20click%20**Submit%20new%20issue**%2C%20no%20need%20to%20edit%20anything.%20A%20bot%20will%20play%20your%20move%20within%20a%20minute.">⬜</a></h2></td><td align="center" width="64" height="64"><h2><a href="https://github.com/Osama-Alghoul/Osama-Alghoul/issues/new?title=ttt%7Cmove%7C1&body=Just%20click%20**Submit%20new%20issue**%2C%20no%20need%20to%20edit%20anything.%20A%20bot%20will%20play%20your%20move%20within%20a%20minute.">⬜</a></h2></td><td align="center" width="64" height="64"><h2><a href="https://github.com/Osama-Alghoul/Osama-Alghoul/issues/new?title=ttt%7Cmove%7C2&body=Just%20click%20**Submit%20new%20issue**%2C%20no%20need%20to%20edit%20anything.%20A%20bot%20will%20play%20your%20move%20within%20a%20minute.">⬜</a></h2></td></tr>
-  <tr><td align="center" width="64" height="64"><h2><a href="https://github.com/Osama-Alghoul/Osama-Alghoul/issues/new?title=ttt%7Cmove%7C3&body=Just%20click%20**Submit%20new%20issue**%2C%20no%20need%20to%20edit%20anything.%20A%20bot%20will%20play%20your%20move%20within%20a%20minute.">⬜</a></h2></td><td align="center" width="64" height="64"><h2><a href="https://github.com/Osama-Alghoul/Osama-Alghoul/issues/new?title=ttt%7Cmove%7C4&body=Just%20click%20**Submit%20new%20issue**%2C%20no%20need%20to%20edit%20anything.%20A%20bot%20will%20play%20your%20move%20within%20a%20minute.">⬜</a></h2></td><td align="center" width="64" height="64"><h2><a href="https://github.com/Osama-Alghoul/Osama-Alghoul/issues/new?title=ttt%7Cmove%7C5&body=Just%20click%20**Submit%20new%20issue**%2C%20no%20need%20to%20edit%20anything.%20A%20bot%20will%20play%20your%20move%20within%20a%20minute.">⬜</a></h2></td></tr>
-  <tr><td align="center" width="64" height="64"><h2><a href="https://github.com/Osama-Alghoul/Osama-Alghoul/issues/new?title=ttt%7Cmove%7C6&body=Just%20click%20**Submit%20new%20issue**%2C%20no%20need%20to%20edit%20anything.%20A%20bot%20will%20play%20your%20move%20within%20a%20minute.">⬜</a></h2></td><td align="center" width="64" height="64"><h2><a href="https://github.com/Osama-Alghoul/Osama-Alghoul/issues/new?title=ttt%7Cmove%7C7&body=Just%20click%20**Submit%20new%20issue**%2C%20no%20need%20to%20edit%20anything.%20A%20bot%20will%20play%20your%20move%20within%20a%20minute.">⬜</a></h2></td><td align="center" width="64" height="64"><h2><a href="https://github.com/Osama-Alghoul/Osama-Alghoul/issues/new?title=ttt%7Cmove%7C8&body=Just%20click%20**Submit%20new%20issue**%2C%20no%20need%20to%20edit%20anything.%20A%20bot%20will%20play%20your%20move%20within%20a%20minute.">⬜</a></h2></td></tr>
-</table>
+I'm **open to full-time roles, freelance projects and collaborations**. Let's build something great together.
 
-<p>It's <b>❌</b>'s turn. Click an empty square to play!</p>
-<sub>❌ wins: 0 · ⭕ wins: 0 · draws: 0</sub>
+<a href="mailto:osamalghoul2@gmail.com?subject=Let's%20work%20together"><img src="https://img.shields.io/badge/✉️_Hire_Me-22c55e?style=for-the-badge&logoColor=white" height="40" alt="Hire me" /></a>
+&nbsp;
+<a href="https://osssghoul.com/"><img src="https://img.shields.io/badge/🌐_View_Portfolio-0891b2?style=for-the-badge" height="40" alt="View portfolio" /></a>
 
 </div>
-<!-- TTT:END -->
-
----
-
-### 🐍 Watch the Snake Eat My Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Osama-Alghoul/Osama-Alghoul/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Osama-Alghoul/Osama-Alghoul/output/snake.svg" />
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Osama-Alghoul/Osama-Alghoul/output/snake.svg" />
-</picture>
 
 ---
 

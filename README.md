@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=200&section=header&text=Osama%20Alghoul&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20Palestine&descAlignY=58&descSize=18" width="100%" alt="Osama Alghoul" />
 
 <a href="https://osssghoul.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Osama+%F0%9F%91%8B;Full-Stack+Web+Developer;Node.js+%2B+Express+APIs+%E2%9A%A1;React+%26+Next.js+Frontends+%E2%9A%9B%EF%B8%8F;Dockerized+%26+deployed+on+Cloudflare+%E2%98%81%EF%B8%8F;Shipping+code+since+2020+%F0%9F%9A%80" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Osama+%F0%9F%91%8B;Full-Stack+Web+Developer;Node.js%2C+NestJS+%26+Express+APIs+%E2%9A%A1;PostgreSQL+%26+SQLite+Databases+%F0%9F%97%84%EF%B8%8F;React+%26+Next.js+Frontends+%E2%9A%9B%EF%B8%8F;Dockerized+%26+deployed+on+Cloudflare+%E2%98%81%EF%B8%8F;Shipping+code+since+2020+%F0%9F%9A%80" alt="Typing intro" />
 </a>
 
 <p>
